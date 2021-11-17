@@ -1,13 +1,10 @@
 # Naive-Bayes-Classifier-for-spam-filtering
 This is a project of the course "Introduction to AI" at Concordia Univeristy
 
-(1)Install: 
+(1) Install: 
 Before running the code, the environment should have installed the following library: math, re, numpy, matplotlib.pyplot 
 
-(2) choose experiment:
-After running, the program will require:  
-
-Input the No. of experiment need to implement(1,2,3, 4 or 5):
+(2) Choosing experiment: After running, the program will require to input the No. of experiment needed to be implemented (1,2,3, 4 or 5):
 
 1: baseline experiment;
 
